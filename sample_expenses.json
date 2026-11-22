@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Groceries",
+    "amount": "45.50",
+    "paid_by": "Alex"
+  },
+  {
+    "description": "Dinner",
+    "amount": "60.25",
+    "paid_by": "Sam"
+  },
+  {
+    "description": "Snacks",
+    "amount": "14.25",
+    "paid_by": "Alex"
+  }
+]
